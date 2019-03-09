@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Nickilass
 Filename: ./debs/com.nickilass.tumbi_1.0.1_iphoneos-arm.deb
 Size: 8327498
-MD5sum: dda5eda06dbd85f31999b90f1c74f2cb
-SHA1: 71c84ff46e3aeb274c96d0ed994b89536a5d7698
-SHA256: 1b11d88eade7a6ccbeeadd3a0d13a7d654e625289aa23f4979601de1cbef71f0
+MD5sum: 24f8c37246d63e2cb306f69bb4f80789
+SHA1: b3fbf12ce2e9dd6e23f4834d82c867962353ce06
+SHA256: 5569409bb3bdc3864001fa0109bd3dcf517c43e2f084e17497a2555915ffc3ac
 Section: Themes (SpringBoard)
 Description: A sleek, minimal, and fun theme for iOS 12.X
 Author: Nickilass
