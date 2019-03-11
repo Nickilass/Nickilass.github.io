@@ -1,0 +1,14 @@
+Package: com.nickilass.tumbi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nickilass
+Filename: ./debs/com.nickilass.tumbi_1.0_iphoneos-arm.deb
+Size: 28892706
+MD5sum: 3cc439d1f1e655173ef36e99424cdbec
+SHA1: c33ffc3c2244b0f2daa3b6eb0588414e54ca81a7
+SHA256: 94efd19efb991f250934353e6d5fd2cb12ea83f74228de0274404bd699e1f0df
+Section: Themes (SpringBoard)
+Description: A sleek, minimal, and fun theme for iOS 12.X
+Author: Nickilass
+Name: Tumbi
+
